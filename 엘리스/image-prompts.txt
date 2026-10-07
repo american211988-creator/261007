@@ -1,0 +1,73 @@
+ABC라이프케어 랜딩 페이지 이미지 생성 프롬프트
+==================================================
+
+사용 방법
+1. 아래 각 [프롬프트] 블록을 그대로 복사해 이미지 생성 도구에 붙여 넣으세요.
+2. 생성된 이미지를 "저장 파일명"으로 저장해 index.html 옆 images 폴더에 넣으세요.
+   (예: images/hero.jpg) → 별도 코드 수정 없이 자동으로 표시됩니다.
+3. 6장의 톤을 맞추려면 맨 아래 [공통 스타일]을 각 프롬프트 뒤에 덧붙이세요.
+
+
+--------------------------------------------------
+1. 히어로 메인 이미지
+저장 파일명: images/hero.jpg
+권장 비율: 4:5 (세로형)
+--------------------------------------------------
+[프롬프트]
+A warm, calm consultation scene in a bright minimalist room: a friendly Korean counselor in soft neutral clothing sitting across a small round table from a middle-aged Korean couple, all gently smiling, relaxed posture, a cup of tea and a small notebook on the table, large window with soft diffused morning light, sheer curtains, a single green plant, pastel mint and cream color palette with subtle lilac accents, lots of negative space, shallow depth of field, soft natural lighting, editorial lifestyle photography, clean and airy, no text, no logo, vertical 4:5 composition
+
+
+--------------------------------------------------
+2. 서비스 카드 - 건강
+저장 파일명: images/service-health.jpg
+권장 비율: 4:3 (가로형)
+--------------------------------------------------
+[프롬프트]
+Minimalist still life representing health and wellbeing: a glass of water, a small bowl of fresh fruit, a rolled yoga mat and a green leaf branch arranged neatly on a pastel mint green surface, soft shadows, top-down slightly angled view, gentle natural daylight, pastel mint and soft white color palette, generous empty space, clean modern lifestyle photography, calm and fresh mood, no people, no text, no logo, horizontal 4:3 composition
+
+
+--------------------------------------------------
+3. 서비스 카드 - 재무
+저장 파일명: images/service-finance.jpg
+권장 비율: 4:3 (가로형)
+--------------------------------------------------
+[프롬프트]
+Minimalist still life representing personal financial planning: a small ceramic piggy bank, a neat stack of coins, an open notebook with a pen and a simple calculator arranged on a pastel butter yellow surface, soft shadows, slightly angled top-down view, gentle natural daylight, pastel butter yellow and cream color palette, generous empty space, clean modern lifestyle photography, calm and trustworthy mood, no people, no readable numbers, no text, no logo, horizontal 4:3 composition
+
+
+--------------------------------------------------
+4. 서비스 카드 - 가족
+저장 파일명: images/service-family.jpg
+권장 비율: 4:3 (가로형)
+--------------------------------------------------
+[프롬프트]
+A warm three-generation Korean family moment in a bright minimalist living room: grandparents, parents and a young child sitting together on a light sofa, laughing softly, natural candid poses, soft diffused window light, pastel peach and warm cream color palette, simple uncluttered background with a plant, shallow depth of field, gentle and affectionate mood, editorial lifestyle photography, no text, no logo, horizontal 4:3 composition
+
+
+--------------------------------------------------
+5. 서비스 카드 - 은퇴
+저장 파일명: images/service-retirement.jpg
+권장 비율: 4:3 (가로형)
+--------------------------------------------------
+[프롬프트]
+A content Korean couple in their sixties walking side by side along a quiet path in a park at golden hour, seen from behind at a slight angle, relaxed and unhurried, soft hazy light, pastel lilac and soft lavender sky tones with muted greens, wide open space around them, peaceful and hopeful mood, soft focus background, editorial lifestyle photography, no text, no logo, horizontal 4:3 composition
+
+
+--------------------------------------------------
+6. 상담 신청 섹션 이미지
+저장 파일명: images/apply.jpg
+권장 비율: 4:3 (가로형)
+--------------------------------------------------
+[프롬프트]
+Close-up of a tidy consultation desk in soft natural light: two hands gently resting near an open notebook, a cup of warm tea, a small vase with a single flower, a pen, light wood tabletop, pastel peach and butter yellow color palette, blurred bright background, shallow depth of field, welcoming and reassuring mood, clean minimalist lifestyle photography, no faces, no text, no logo, horizontal 4:3 composition
+
+
+==================================================
+[공통 스타일] - 톤 통일용, 각 프롬프트 끝에 덧붙이기
+==================================================
+soft pastel color grading, low contrast, matte finish, minimalist composition, natural soft light, high resolution, consistent editorial style across the series
+
+==================================================
+[네거티브 프롬프트] - 지원하는 도구에서만 사용
+==================================================
+text, watermark, logo, signature, harsh shadows, oversaturated colors, dark moody lighting, cluttered background, distorted hands, extra fingers, deformed faces, low quality, blurry
